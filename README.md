@@ -1,8 +1,8 @@
-/*Case Study*/
+_*Case Study*_
 
    This is a case study to demonstrate the processing and analysis of data from a travel agency. 
 
-/*Installation*/
+_*Installation*_
 
    1) To generate the required directory structre, edit the 'root' macro variable inside of 'autoexec.sas' and run the program.
 
@@ -17,7 +17,7 @@
    5) Place the following files inside the SAS\Data\Inputs:
 	bookings.csv, destinations.csv, households.csv, loyalty.dat
 
-/*Usage*/
+_*Usage*_
 
    Run the files inside of the Programs folder in sequential order. Reports will be generated inside the
    "SAS\Reports" folder and the log for each program will be saved in the "SAS\Logs" folder.
