@@ -1,8 +1,8 @@
-/* Case Study */
+/*Case Study*/
 
    This is a case study to demonstrate the processing and analysis of data from a travel agency. 
 
-/* Installation */
+/*Installation*/
 
    1) To generate the required directory structre, edit the 'root' macro variable inside of 'autoexec.sas' and run the program.
 
